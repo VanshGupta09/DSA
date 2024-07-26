@@ -22,7 +22,7 @@ int uniqueElm(int arr[], int size)
 
 int main()
 {
-    int arr[5] = {2, 2, 4, 4, 5};
+    int arr[5] = {2, 2, 3, 4, 5};
     cout << uniqueElm(arr, 5);
 
     return 0;
